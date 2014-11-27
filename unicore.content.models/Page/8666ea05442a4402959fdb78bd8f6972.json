@@ -1,0 +1,28 @@
+{
+  "subtitle": "", 
+  "description": "Les risques de complications pendant la grossesse et l\u2019accouchement augmentent \r\nquand une femme a d\u00e9j\u00e0 eu de nombreuses grossesses.", 
+  "language": "fre_FR", 
+  "title": "Les risques de complications pendant la grossesse et l\u2019accouchement augmentent  quand une femme a d\u00e9j\u00e0 eu de nombreuses grossesses.", 
+  "primary_category": "9f861ebd84ec409899ac5dac8c3656ef", 
+  "created_at": "2014-11-27T12:05:29.787281+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2014-11-27T12:05:29.787567+00:00", 
+  "_version": {
+    "package_version": "0.2.9", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Des grossesses et des naissances r\u00e9p\u00e9t\u00e9es, l\u2019accouchement et les soins \u00e0 donner \r\naux jeunes enfants peuvent facilement \u00e9puiser l\u2019organisme d\u2019une femme. Apr\u00e8s de \r\nnombreuses naissances, la m\u00e8re risque davantage d\u2019avoir de graves probl\u00e8mes de \r\nsant\u00e9 comme l\u2019an\u00e9mie ou des h\u00e9morragies.", 
+  "source": "b5877469e90a44c8bb5fef56f737cc03", 
+  "featured": false, 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://qa.thumbor.unicore.io", 
+  "slug": "les-risques-de-complications-pendant-la-grossesse-et-laccouchement-augmentent-quand-une-femme-deja-eu-de-nombreuses-grossesses", 
+  "uuid": "8666ea05442a4402959fdb78bd8f6972"
+}
