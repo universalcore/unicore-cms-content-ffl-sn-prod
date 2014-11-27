@@ -1,0 +1,20 @@
+{
+  "subtitle": "", 
+  "uuid": "0dc8a387e7bc4b8cb5beb4aab4ec2d66", 
+  "language": "fre_FR", 
+  "title": "Le VIH", 
+  "image": null, 
+  "_version": {
+    "package_version": "0.2.9", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "slug": "le-vih", 
+  "source": "99fdaf31bc2949a5ab89f7b2217811d6", 
+  "position": 0, 
+  "image_host": "http://qa.thumbor.unicore.io", 
+  "featured_in_navbar": false, 
+  "id": null
+}
