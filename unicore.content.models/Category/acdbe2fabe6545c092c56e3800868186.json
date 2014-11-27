@@ -1,0 +1,20 @@
+{
+  "subtitle": "", 
+  "uuid": "acdbe2fabe6545c092c56e3800868186", 
+  "language": "fre_FR", 
+  "title": "La maternit\u00e9 sans risques et la sant\u00e9 du nouveau-n\u00e9", 
+  "image": null, 
+  "_version": {
+    "package_version": "0.2.9", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "slug": "la-maternite-sans-risques-et-la-sante-du-nouveau-ne", 
+  "source": "e1da05c882364f7c891f9da57f5e981d", 
+  "position": 0, 
+  "image_host": "http://qa.thumbor.unicore.io", 
+  "featured_in_navbar": false, 
+  "id": null
+}
