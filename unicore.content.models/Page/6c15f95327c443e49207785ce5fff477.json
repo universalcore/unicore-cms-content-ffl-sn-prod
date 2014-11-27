@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
-  "description": "En encourageant les enfants \u00e0 jouer et \u00e0 explorer, on les aide \u00e0 apprendre et \u00e0 se d\u00e9velopper sur les plans social, affectif, physique et intellectuel. Cela contribue \u00e0 les pr\u00e9parer \u00e0 aller \u00e0 l\u2019\u00e9cole", 
+  "description": "Les b\u00e9b\u00e9s commencent \u00e0 apprendre rapidement d\u00e8s la naissance. Leur d\u00e9veloppement et leur apprentissage s\u2019effectuent de fa\u00e7on optimale lorsque leurs parents ou d\u2019autres adultes aimants et attentifs le\r\n\r\nles-bebes-commencent-a-apprendre-rapidement-des-la-naissance-leur-developpement-et-leur-apprentissage-seffectuent-de-facon-optimale-lorsque-leurs-parents-ou-dautres-adultes-aimant-et-attentifs-le", 
   "language": "fre_FR", 
-  "title": "En encourageant les enfants \u00e0 jouer et \u00e0 explorer, on les aide \u00e0 apprendre et \u00e0 se d\u00e9velopper sur les plans social, affectif, physique et intellectuel. Cela contribue \u00e0 les pr\u00e9parer \u00e0 aller \u00e0 l\u2019\u00e9cole", 
+  "title": "Les b\u00e9b\u00e9s commencent \u00e0 apprendre rapidement d\u00e8s la naissance. Leur d\u00e9veloppement et leur apprentissage s\u2019effectuent de fa\u00e7on optimale lorsque leurs parents ou d\u2019autres adultes aimants et attentifs le", 
   "primary_category": "e737489cdfb643cfb2ae8c0ea42620f3", 
-  "created_at": "2014-11-27T15:59:39.313176+00:00", 
+  "created_at": "2014-11-27T15:59:39+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-11-27T15:59:39.313560+00:00", 
+  "modified_at": "2014-11-27T16:05:15.600304+00:00", 
   "_version": {
     "package_version": "0.2.9", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -23,6 +23,6 @@
   "published": null, 
   "position": 0, 
   "image_host": "http://qa.thumbor.unicore.io", 
-  "slug": "en-encourageant-les-enfants-jouer-et-explorer-les-aide-apprendre-et-se-developper-sur-les-plans-social-affectif-physique-et-intellectuel-cela-contribue-les-preparer-aller-lecole", 
+  "slug": "les-bebes-commencent-a-apprendre-rapidement-des-la-naissance-leur-developpement-et-leur-apprentissage-seffectuent-de-facon-optimale-lorsque-leurs-parents-ou-dautres-adultes-aimant-et-attentifs-le", 
   "uuid": "6c15f95327c443e49207785ce5fff477"
 }
