@@ -4,14 +4,14 @@
   "language": "fre_FR", 
   "title": "La planification familiale incombe tout autant aux hommes qu\u2019aux femmes, y compris aux adolescents. Les deux partenaires doivent en conna\u00eetre les bienfaits pour la sant\u00e9, ainsi que les possibilit\u00e9s q", 
   "primary_category": "9f861ebd84ec409899ac5dac8c3656ef", 
-  "created_at": "2014-11-27T12:56:50.188064+00:00", 
+  "created_at": "2014-11-27T12:56:50+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-11-27T12:56:50.188385+00:00", 
+  "modified_at": "2014-11-27T12:57:11.301040+00:00", 
   "_version": {
     "package_version": "0.2.9", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
