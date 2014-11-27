@@ -1,0 +1,28 @@
+{
+  "subtitle": "", 
+  "description": "Apr\u00e8s l\u2019\u00e2ge de 6 mois, quand le nourrisson commence \u00e0 manger des aliments, il est\r\nrecommand\u00e9 de continuer \u00e0 l\u2019allaiter jusqu\u2019\u00e0 l\u2019\u00e2ge de deux ans et au-del\u00e0 car le lait\r\nmaternel est une importante source de nutrition et d\u2019\u00e9nergie et qu\u2019il prot\u00e8ge contre\r\nles maladies. ", 
+  "language": "fre_FR", 
+  "title": "Apr\u00e8s l\u2019\u00e2ge de 6 mois, quand le nourrisson commence \u00e0 manger des aliments, il est recommand\u00e9 de continuer \u00e0 l\u2019allaiter jusqu\u2019\u00e0 l\u2019\u00e2ge de deux ans et au-del\u00e0 car le lait maternel est une importante sour", 
+  "primary_category": "86f7dce131ca4291830534a8634bdcc6", 
+  "created_at": "2014-11-27T15:15:48.610773+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2014-11-27T15:15:48.610967+00:00", 
+  "_version": {
+    "package_version": "0.2.9", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "M\u00eame si, \u00e0 partir de 6 mois, un nourrisson a besoin d\u2019autres aliments en plus du lait\r\nmaternel, celui-ci demeure une source importante d\u2019\u00e9nergie, de prot\u00e9ines et d\u2019autres\r\nnutriments, comme la vitamine A et le fer. Le lait maternel contribue \u00e0 prot\u00e9ger\r\nl\u2019enfant de maladies aussi longtemps qu\u2019il est nourri au sein.\r\n\r\nIl est recommand\u00e9 qu\u2019une m\u00e8re continue \u00e0 allaiter son enfant jusqu\u2019\u00e0 2 ans et au-\r\ndel\u00e0 \u2013 aussi longtemps qu\u2019elle et son enfant le d\u00e9sirent. L\u2019allaitement maternel peut\r\nr\u00e9conforter un enfant qui pleure et est une source importante de nutriments quand\r\nun enfant est malade.", 
+  "source": "d0a3f31a891f4374a0abb628b1a5dfa4", 
+  "featured": false, 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://qa.thumbor.unicore.io", 
+  "slug": "apres-lage-de-6-mois-quand-le-nourrisson-commence-manger-des-aliments-il-est-recommande-de-continuer-lallaiter-jusqu-lage-de-deux-ans-et-au-dela-car-le-lait-maternel-est-une-importante-sour", 
+  "uuid": "065679d596b84422b8269ccfa2efaa64"
+}
