@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
-  "description": "Les risques li\u00e9s \u00e0 la grossesse sont consid\u00e9rablement r\u00e9duits, pour la m\u00e8re comme\r\npour l\u2019enfant, lorsque les femmes sont en bonne sant\u00e9 et bien nourries avant de\r\ntomber enceintes. Pendant la grossesse et l\u2019allaitement, toutes les femmes ont\r\nbesoin de repas plus nutritifs, de plus grandes quantit\u00e9s d\u2019aliments, de plus de repos\r\nque d\u2019habitude, de compl\u00e9ments de fer et de folate ou de micronutriments multiples,\r\nm\u00eame si elles consomment des aliments fortifi\u00e9s, et de sel iod\u00e9 pour assurer le\r\nd\u00e9veloppement mental de leur enfant.", 
+  "description": "Les filles qui vont \u00e0 l\u2019\u00e9cole, qui sont en bonne sant\u00e9 et qui re\u00e7oivent une alimentation nutritive pendant leur enfance et leur adolescence auront plus de chances de donner naissance par la suite \u00e0 d\r\n\r\nles- filles-qui-vont-a-lecole-qui-sont-en-bonne-sante-et-qui-recoivent-une-alimentation-nutritive-pendant-leur-enfance-et-leur-adolescence-auront-plus-de-chances-de-donner-naissance-par-la-suite-a-d", 
   "language": "fre_FR", 
-  "title": "Les risques li\u00e9s \u00e0 la grossesse sont consid\u00e9rablement r\u00e9duits, pour la m\u00e8re comme pour l\u2019enfant, lorsque les femmes sont en bonne sant\u00e9 et bien nourries avant de tomber enceintes. Pendant la grossess", 
+  "title": "Les filles qui vont \u00e0 l\u2019\u00e9cole, qui sont en bonne sant\u00e9 et qui re\u00e7oivent une alimentation nutritive pendant leur enfance et leur adolescence auront plus de chances de donner naissance par la suite \u00e0 d", 
   "primary_category": "acdbe2fabe6545c092c56e3800868186", 
-  "created_at": "2014-11-27T14:53:46.978171+00:00", 
+  "created_at": "2014-11-27T14:53:46+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-11-27T14:53:46.978352+00:00", 
+  "modified_at": "2014-11-27T15:04:21.959349+00:00", 
   "_version": {
     "package_version": "0.2.9", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -21,8 +21,8 @@
   "featured": false, 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 2, 
   "image_host": "http://qa.thumbor.unicore.io", 
-  "slug": "les-risques-lies-la-grossesse-sont-considerablement-reduits-pour-la-mere-comme-pour-lenfant-lorsque-les-femmes-sont-en-bonne-sante-et-bien-nourries-avant-de-tomber-enceintes-pendant-la-grossess", 
+  "slug": "les-filles-qui-vont-a-lecole-qui-sont-en-bonne-sante-et-qui-recoivent-une-alimentation-nutritive-pendant-leur-enfance-et-leur-adolescence-auront-plus-de-chances-de-donner-naissance-par-la-suite-a", 
   "uuid": "8d617116d8814636971ada4c1dcde013"
 }
