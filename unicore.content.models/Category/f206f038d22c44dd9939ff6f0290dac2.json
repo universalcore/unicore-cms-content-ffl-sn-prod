@@ -1,0 +1,20 @@
+{
+  "subtitle": "", 
+  "uuid": "f206f038d22c44dd9939ff6f0290dac2", 
+  "language": "fre_FR", 
+  "title": "L\u2019hygi\u00e8ne", 
+  "image": null, 
+  "_version": {
+    "package_version": "0.2.9", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "slug": "lhygiene", 
+  "source": "3415ea2a4314433ca7645eff98afde2c", 
+  "position": 0, 
+  "image_host": "http://qa.thumbor.unicore.io", 
+  "featured_in_navbar": false, 
+  "id": null
+}
