@@ -1,0 +1,28 @@
+{
+  "subtitle": "", 
+  "description": "La rougeole, la diarrh\u00e9e, la pneumonie, le paludisme, la malnutrition et les\r\ncomplications n\u00e9onatales sont les principales causes de d\u00e9c\u00e8s chez les enfants,\r\nen particulier dans les situations d\u2019urgence. ", 
+  "language": "fre_FR", 
+  "title": "La rougeole, la diarrh\u00e9e, la pneumonie, le paludisme, la malnutrition et les complications n\u00e9onatales sont les principales causes de d\u00e9c\u00e8s chez les enfants, en particulier dans les situations d\u2019urgen", 
+  "primary_category": "4702b31d1b94427887f80e59629c42b6", 
+  "created_at": "2014-11-28T09:20:16.607975+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2014-11-28T09:20:16.608190+00:00", 
+  "_version": {
+    "package_version": "0.2.9", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Les maladies infectieuses se propagent rapidement dans les situations d\u2019urgence.\r\nPour r\u00e9duire les risques :\r\n\r\n* v\u00e9rifier au premier point de contact ou lieu d\u2019h\u00e9bergement que tous les enfants\r\n\u00e2g\u00e9s de 6 mois \u00e0 15 ans sont correctement vaccin\u00e9s, notamment contre\r\nla rougeole.\r\n* continuer de chercher des services de sant\u00e9 pour pr\u00e9venir et soigner les maladies.\r\n\r\n*(Se r\u00e9f\u00e9rer\r\naux chapitres sur la maternit\u00e9 sans risques et la sant\u00e9 du nouveau-n\u00e9,\r\nla vaccination, la toux, les rhumes et autres maladies plus graves, et le paludisme.)*\r\n\r\nLa malnutrition est plus fr\u00e9quente dans les situations d\u2019urgence, du fait des p\u00e9nuries\r\nalimentaires, d\u2019une augmentation des maladies et de l\u2019interruption des pratiques de\r\nsoins. Il est par cons\u00e9quent important de veiller \u00e0 ce que les enfants :\r\n\r\n* soient allait\u00e9s et re\u00e7oivent une quantit\u00e9 de nourriture et de boissons nutritives\r\nadapt\u00e9e \u00e0 leur \u00e2ge\r\n* re\u00e7oivent des micronutriments essentiels en plus d\u2019aliments enrichis.\r\nLes enfants \u00e9maci\u00e9s et/ou bouffis (en g\u00e9n\u00e9ral au niveau des pieds et des jambes)\r\ndoivent \u00eatre conduits chez un professionnel de sant\u00e9 ou un centre de soins pour une\r\nauscultation et un traitement imm\u00e9diats et recevoir une aide suppl\u00e9mentaire selon\r\nleur \u00e9tat.\r\n\r\n*(Se r\u00e9f\u00e9rer\r\naux chapitres sur l\u2019allaitement et la nutrition et la croissance.)*\r\n\r\nEn situation d\u2019urgence, le manque d\u2019eau potable, d\u2019installations sanitaires et\r\nd\u2019hygi\u00e8ne peut provoquer des maladies pouvant se transformer en \u00e9pid\u00e9mies.\r\nLe chol\u00e9ra peut appara\u00eetre en cas de mauvaises conditions d\u2019hygi\u00e8ne et de\r\nsurpopulation. Les gestes \u00e9l\u00e9mentaires \u00e0 suivre sont les suivants :\r\n\r\n* continuer de se laver les mains fr\u00e9quemment avec de l\u2019eau et du savon, ou avec\r\nun substitut, par exemple de l\u2019eau et des cendres\r\n* \u00e9vacuer les selles et les ordures de mani\u00e8re s\u00e9curis\u00e9e\r\n* pr\u00e9parer les aliments de mani\u00e8re hygi\u00e9nique\r\n* utiliser des sources d\u2019eau s\u00fbres ou bien traiter l\u2019eau chez soi, par exemple en la\r\nfaisant bouillir, en la filtrant, en y ajoutant du chlore ou en la d\u00e9sinfectant \u00e0 la\r\nlumi\u00e8re du soleil\r\n* conserver l\u2019eau salubre dans des r\u00e9cipients propres et ferm\u00e9s.\r\n\r\n*(Se r\u00e9f\u00e9rer\r\naux chapitres sur l\u2019hygi\u00e8ne et la diarrh\u00e9e.)* ", 
+  "source": "560f70de5b784798be87a9e9bd8eafb2", 
+  "featured": false, 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://qa.thumbor.unicore.io", 
+  "slug": "la-rougeole-la-diarrhee-la-pneumonie-le-paludisme-la-malnutrition-et-les-complications-neonatales-sont-les-principales-causes-de-deces-chez-les-enfants-en-particulier-dans-les-situations-durgen", 
+  "uuid": "e44d5d68725f4c17a035a4f32796bbc0"
+}
