@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
-  "description": " Children have the right to be protected from violence in emergencies.\r\nGovernments, civil society, international organizations, communities and\r\nfamilies have the responsibility to protect them", 
+  "description": "En situation d\u2019urgence, les enfants ont le droit d\u2019\u00eatre prot\u00e9g\u00e9s contre la violence. Il\r\nincombe aux gouvernements, \u00e0 la soci\u00e9t\u00e9 civile, aux organisations internationales,\r\naux communaut\u00e9s et aux familles de les prot\u00e9ger.", 
   "language": "fre_FR", 
-  "title": " Children have the right to be protected from violence in emergencies. Governments, civil society, international organizations, communities and families have the responsibility to protect them", 
+  "title": "En situation d\u2019urgence, les enfants ont le droit d\u2019\u00eatre prot\u00e9g\u00e9s contre la violence. Il incombe aux gouvernements, \u00e0 la soci\u00e9t\u00e9 civile, aux organisations internationales, aux communaut\u00e9s et aux famil", 
   "primary_category": "4702b31d1b94427887f80e59629c42b6", 
-  "created_at": "2014-11-28T10:53:49.261261+00:00", 
+  "created_at": "2014-11-28T10:53:49+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-11-28T10:53:49.261452+00:00", 
+  "modified_at": "2014-11-28T10:57:45.654592+00:00", 
   "_version": {
     "package_version": "0.2.9", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -23,6 +23,6 @@
   "published": null, 
   "position": 0, 
   "image_host": "http://qa.thumbor.unicore.io", 
-  "slug": "children-have-right-be-protected-violence-emergencies-governments-civil-society-international-organizations-communities-and-families-have-responsibility-protect-them", 
+  "slug": "en-situation-durgence-les-enfants-ont-le-droit-detre-proteges-contre-la-violence-Il-incombe-aux-gouvernements-a-la-societe-civile-aux-organisations-internationales-aux-communautes-et-aux-familles-de-les-proteger", 
   "uuid": "c0ab3fa84ea04cbf96f5f0b08aa60060"
 }
