@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
-  "description": "", 
+  "description": "Les enfants tr\u00e8s minces, et/ou dont des parties du corps sont enfl\u00e9es, ont besoin de\r\nsoins m\u00e9dicaux particuliers. Il faut les emmener en consultation aupr\u00e8s d\u2019un agent\r\nsanitaire qualifi\u00e9 ou dans un \u00e9tablissement de sant\u00e9 pour faire le diagnostic de leur\r\n\u00e9tat et les traiter. ", 
   "language": "fre_FR", 
-  "title": " Les enfants tr\u00e8s minces, et/ou dont des parties du corps sont enfl\u00e9es, ont besoin de soins m\u00e9dicaux particuliers. Il faut les emmener en consultation aupr\u00e8s d\u2019un agent sanitaire qualifi\u00e9 ou dans un \u00e9", 
+  "title": "Les enfants tr\u00e8s minces, et/ou dont des parties du corps sont enfl\u00e9es, ont besoin de soins m\u00e9dicaux particuliers. Il faut les emmener en consultation aupr\u00e8s d\u2019un agent sanitaire qualifi\u00e9 ou dans un \u00e9", 
   "primary_category": "051517a81a6441bd8d9d788b1ceab8ad", 
-  "created_at": "2014-11-28T00:11:27.836379+00:00", 
+  "created_at": "2014-11-28T00:11:27+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-11-28T00:11:27.836686+00:00", 
+  "modified_at": "2014-11-28T09:02:22.339444+00:00", 
   "_version": {
     "package_version": "0.2.9", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -21,7 +21,7 @@
   "featured": false, 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 5, 
   "image_host": "http://qa.thumbor.unicore.io", 
   "slug": "les-enfants-tres-minces-etou-dont-des-parties-du-corps-sont-enflees-ont-besoin-de-soins-medicaux-particuliers-il-faut-les-emmener-en-consultation-aupres-dun-agent-sanitaire-qualifie-ou-dans-un-e", 
   "uuid": "ee9f058708c34ea1a5dd10a0c8b52130"
