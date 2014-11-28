@@ -1,0 +1,28 @@
+{
+  "subtitle": "", 
+  "description": "Les couteaux, ciseaux, objets tranchants ou pointus et les morceaux de verre peuvent\r\nprovoquer des blessures g\r\nraves. Il faut les garder hors de la port\u00e9e des enfants. Il en\r\nva de m\u00eame des sacs en plastique, avec lesquels un enfant peut s\u2019\u00e9touffer.", 
+  "language": "fre_FR", 
+  "title": "Les couteaux, ciseaux, objets tranchants ou pointus et les morceaux de verre peuvent provoquer des blessures g raves. Il faut les garder hors de la port\u00e9e des enfants. Il en va de m\u00eame des sacs en pla", 
+  "primary_category": "32ae9d77ce5045aeb2bc132c11001c08", 
+  "created_at": "2014-11-28T13:22:46.844412+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2014-11-28T13:22:46.844626+00:00", 
+  "_version": {
+    "package_version": "0.2.9", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Les tessons de verre peuvent provoquer de graves coupures, des h\u00e9morragies et\r\ndes plaies qui s\u2019infectent. Les objets m\u00e9talliques pointus, les machines et les bo\u00eetes\r\nrouill\u00e9es peuvent occasionner des blessures susceptibles de s\u2019infecter gravement.\r\n\r\n**Pour r\u00e9duire le risque de blessure par verre et par objets pointus, on peut :**\r\n\r\n*conserver les bouteilles en verre hors de la port\u00e9e des jeunes enfants et faire en\r\nsorte qu\u2019aucun tesson de verre ou d\u00e9chet ne tra\u00eene dans la maison ou dans les\r\nzones de jeu\r\n* ranger les couteaux, les rasoirs et les ciseaux dans des tiroirs ou des placards\r\nferm\u00e9s inaccessibles aux jeunes enfants\r\n* jeter les d\u00e9chets de mani\u00e8re appropri\u00e9e, y compris les bouteilles cass\u00e9es et les\r\nvieilles bo\u00eetes de conserve.\r\n\r\nOn peut \u00e9galement \u00e9viter les accidents autour de la maison en apprenant aux enfants\r\nqu\u2019il est dangereux de lancer des pierres ou des objets pointus et de jouer avec des\r\ncouteaux ou des ciseaux.\r\n\r\nLes enfants ne doivent pas jouer avec des sacs en plastique afin d\u2019\u00e9viter l\u2019\u00e9touffement.\r\n\r\n*Pour des conseils sur les premiers secours en cas de coupures et de plaies, se r\u00e9f\u00e9rer\r\n\u00e0 la fin de ce chapitre.*", 
+  "source": "6620d628e50d45f79ff4f7304fb16883", 
+  "featured": false, 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://qa.thumbor.unicore.io", 
+  "slug": "les-couteaux-ciseaux-objets-tranchants-ou-pointus-et-les-morceaux-de-verre-peuvent-provoquer-des-blessures-g-raves-il-faut-les-garder-hors-de-la-portee-des-enfants-il-en-va-de-meme-des-sacs-en-pla", 
+  "uuid": "18e99ca6c45444d5b24e5a1f3cfc981f"
+}
