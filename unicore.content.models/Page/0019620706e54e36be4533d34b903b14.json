@@ -4,14 +4,14 @@
   "language": "fre_FR", 
   "title": "De nombreux accidents g raves pourraient \u00eatre \u00e9vit\u00e9s si les parents et autres personnes en charge surveillaient attentivement les enfants et s\u2019assuraient qu\u2019ils ne sont pas en situation de danger.", 
   "primary_category": "32ae9d77ce5045aeb2bc132c11001c08", 
-  "created_at": "2014-11-28T12:20:17.017407+00:00", 
+  "created_at": "2014-11-28T12:20:17+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-11-28T12:20:17.017606+00:00", 
+  "modified_at": "2014-11-28T12:20:23.260977+00:00", 
   "_version": {
     "package_version": "0.2.9", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
