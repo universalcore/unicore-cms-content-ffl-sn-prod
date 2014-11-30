@@ -1,0 +1,28 @@
+{
+  "subtitle": "", 
+  "description": "Les maladies peuvent se propager rapidement dans les endroits surpeupl\u00e9s. Tous les\r\nenfants qui vivent dans des endroits surpeupl\u00e9s, en particulier dans des camps de\r\nr\u00e9fugi\u00e9s ou lors des catastrophes, devraient \u00eatre vaccin\u00e9s imm\u00e9diatement, surtout\r\ncontre la rougeole.", 
+  "language": "fre_FR", 
+  "title": "Les maladies peuvent se propager rapidement dans les endroits surpeupl\u00e9s. Tous les enfants qui vivent dans des endroits surpeupl\u00e9s, en particulier dans des camps de r\u00e9fugi\u00e9s ou lors des catastrophes, ", 
+  "primary_category": "5fb03f994ad84563b612768b47ae0ce0", 
+  "created_at": "2014-11-30T07:18:48.485017+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2014-11-30T07:18:48.485400+00:00", 
+  "_version": {
+    "package_version": "0.2.9", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Les situations d\u2019urgence qui obligent les populations \u00e0 s\u2019enfuir sont souvent \u00e0\r\nl\u2019origine de la propagation des maladies contagieuses. C\u2019est pourquoi tous les enfants\r\nd\u00e9plac\u00e9s de moins de 15 ans devraient \u00eatre imm\u00e9diatement vaccin\u00e9s, en particulier\r\ncontre la rougeole, au premier point de contact ou d\u00e8s qu\u2019ils sont install\u00e9s.\r\n\r\nLa rougeole est encore plus grave lorsque les enfants sont mal nourris ou vivent dans\r\ndes conditions o\u00f9 l\u2019hygi\u00e8ne laisse \u00e0 d\u00e9sirer.\r\n\r\n* Les maladies comme la rougeole se propagent tr\u00e8s rapidement; un enfant qui\r\nen est atteint doit \u00eatre isol\u00e9 des autres enfants, examin\u00e9 par un agent de sant\u00e9\r\nqualifi\u00e9 et il faut lui donner une forte dose de vitamine A.\r\n* Quand une \u00e9pid\u00e9mie de rougeole \u00e9clate dans une r\u00e9gion, il faut vacciner les\r\nenfants. Il faut aussi alerter les r\u00e9gions voisines pour que leurs enfants soient\r\naussi vaccin\u00e9s.\r\n\r\nSi la vaccination syst\u00e9matique d\u2019un enfant a \u00e9t\u00e9 interrompue, il faut consulter\r\nun agent de sant\u00e9 pour qu\u2019il ach\u00e8ve la vaccination conform\u00e9ment aux directives\r\nnationales. Quand le carnet de vaccination de l\u2019enfant a \u00e9t\u00e9 perdu et que les parents\r\nne se souviennent pas des vaccins d\u00e9j\u00e0 administr\u00e9s \u00e0 l\u2019enfant, mieux vaut refaire tous\r\nles vaccins.", 
+  "source": "b484f23fa5ed4eefbe08373617ff5bbb", 
+  "featured": false, 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://qa.thumbor.unicore.io", 
+  "slug": "les-maladies-peuvent-se-propager-rapidement-dans-les-endroits-surpeuples-tous-les-enfants-qui-vivent-dans-des-endroits-surpeuples-en-particulier-dans-des-camps-de-refugies-ou-lors-des-catastrophes", 
+  "uuid": "b9e5bc7bf8eb45749b6a1b893dc68ed8"
+}
