@@ -1,0 +1,28 @@
+{
+  "subtitle": "", 
+  "description": "Il faut toujours utiliser une seringue neuve pour administrer un vaccin. Il faut en\r\nexiger une \u00e0 chaque vaccination.", 
+  "language": "fre_FR", 
+  "title": "Il faut toujours utiliser une seringue neuve pour administrer un vaccin. Il faut en exiger une \u00e0 chaque vaccination.", 
+  "primary_category": "5fb03f994ad84563b612768b47ae0ce0", 
+  "created_at": "2014-11-30T07:14:56.876389+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2014-11-30T07:14:56.876813+00:00", 
+  "_version": {
+    "package_version": "0.2.9", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Partager des seringues et des aiguilles, m\u00eame entre les membres d\u2019une m\u00eame famille,\r\npeut propager des maladies mortelles. Il ne faut utiliser que des seringues neuves.\r\n\r\nToutes les vaccinations, m\u00eame dans des situations d\u2019urgence, doivent \u00eatre effectu\u00e9es\r\navec des seringues autobloquantes, \u00e0 usage unique.\r\n\r\nLes parents et autres responsables de l\u2019enfant doivent exiger une nouvelle seringue\r\npour chaque vaccination. Les agents de sant\u00e9 \u00e9limineront les seringues usag\u00e9es et\r\nautres d\u00e9chets li\u00e9s \u00e0 la vaccination en prenant les pr\u00e9cautions d\u2019usage.", 
+  "source": "7770953618ac4ba094a2d690ef798941", 
+  "featured": false, 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://qa.thumbor.unicore.io", 
+  "slug": "il-faut-toujours-utiliser-une-seringue-neuve-pour-administrer-un-vaccin-il-faut-en-exiger-une-chaque-vaccination", 
+  "uuid": "4b6e9decaa0d4db4931085e72d43f66b"
+}
