@@ -1,0 +1,28 @@
+{
+  "subtitle": "", 
+  "description": "Il faut \u00e9vacuer toutes les selles, y compris\r\ncelles des b\u00e9b\u00e9s et des jeunes enfants, de\r\nfa\u00e7on hygi\u00e9nique. Le meilleur moyen consiste \u00e0 s\u2019assurer que tous les membres de la\r\nfamille utilisent des toilettes, des latrines ou le pot (pour les jeunes enfants). Quand il\r\nn\u2019existe pas de toilettes, il faut enterrer les selles. ", 
+  "language": "fre_FR", 
+  "title": "Il faut \u00e9vacuer toutes les selles, y compris celles des b\u00e9b\u00e9s et des jeunes enfants, de fa\u00e7on hygi\u00e9nique. Le meilleur moyen consiste \u00e0 s\u2019assurer que tous les membres de la famille utilisent des toile", 
+  "primary_category": "f206f038d22c44dd9939ff6f0290dac2", 
+  "created_at": "2014-11-29T10:07:59.799937+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2014-12-01T14:03:00.925546+00:00", 
+  "_version": {
+    "package_version": "0.2.9", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Nombre de maladies, en particulier la diarrh\u00e9e, sont transmises par des microbes\r\nqui se trouvent dans les selles humaines. Si ces microbes parviennent dans l\u2019eau,\r\nsur la nourriture, sur les mains, sur les ustensiles de cuisine ou sur les surfaces o\u00f9\r\nl\u2019on appr\u00eate et sert la nourriture, on risque de les avaler et de tomber malade. La\r\nmesure la plus efficace pour emp\u00eacher la propagation des microbes, que ce soit par\r\nles personnes ou les mouches, est d\u2019\u00e9vacuer toutes les mati\u00e8res f\u00e9cales \u2013 humaines\r\net animales \u2013 de fa\u00e7on hygi\u00e9nique. Les selles humaines doivent \u00eatre jet\u00e9es dans les\r\ntoilettes ou les latrines, ou alors \u00eatre enterr\u00e9es.\r\n\r\nToutes les selles, m\u00eame celles des nourrissons et des jeunes enfants, contiennent\r\ndes microbes et sont donc dangereuses. Si un enfant va \u00e0 la selle ailleurs que dans\r\nles toilettes ou les latrines, il faut imm\u00e9diatement enlever les selles et les jeter dans\r\nles toilettes ou les latrines, ou alors les enterrer. Les parents ou les personnes qui\r\ns\u2019occupent de l\u2019enfant doivent ensuite se laver les mains \u00e0 l\u2019eau et au savon, ou avec\r\nun produit de substitution comme l\u2019eau et la cendre.\r\n\r\nLorsque l\u2019usage des toilettes ou des latrines n\u2019est pas possible, adultes et enfants\r\ndevraient faire leurs besoins dans des endroits \u00e9loign\u00e9s des maisons, des chemins,\r\ndes points d\u2019eau et des espaces de jeu. Il faut ensuite enterrer imm\u00e9diatement les\r\nselles. Il ne faut pas non plus laisser les animaux d\u00e9f\u00e9quer \u00e0 proximit\u00e9 des maisons,\r\ndes chemins et des terrains de jeu destin\u00e9s aux enfants.\r\n\r\nIl faut nettoyer r\u00e9guli\u00e8rement les toilettes et les latrines. Il faut fermer les latrines avec\r\nun couvercle et tirer la chasse d\u2019eau des toilettes. Les latrines propres attirent moins\r\nfacilement les mouches et les gens sont plus enclins \u00e0 les utiliser. Les autorit\u00e9s locales\r\net les organisations non gouvernementales peuvent souvent donner des conseils aux\r\nfamilles sur les diff\u00e9rents types de latrines, les mat\u00e9riaux \u00e0 utiliser et la construction\r\nde latrines d\u2019un prix abordable.\r\n\r\nDans les zones urbaines, les autorit\u00e9s et les communaut\u00e9s devraient travailler main\r\ndans la main pour installer des latrines ou des toilettes bon march\u00e9, construire des\r\nsyst\u00e8mes d\u2019assainissement et de drainage, et pour am\u00e9liorer l\u2019approvisionnement en\r\neau potable et la collecte des ordures m\u00e9nag\u00e8res.", 
+  "source": "3488c5cb46394e2a8fb7130e4c758944", 
+  "featured": false, 
+  "image": null, 
+  "published": null, 
+  "position": 28, 
+  "image_host": "http://qa.thumbor.unicore.io", 
+  "slug": "il-faut-evacuer-toutes-les-selles-y-compris-celles-des-bebes-et-des-jeunes-enfants-de-facon-hygienique-le-meilleur-moyen-consiste-sassurer-que-tous-les-membres-de-la-famille-utilisent-des-toile", 
+  "uuid": "9bb8181827564f359ca87809036d7cf7"
+}
