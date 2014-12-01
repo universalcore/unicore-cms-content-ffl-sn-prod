@@ -1,0 +1,28 @@
+{
+  "subtitle": "", 
+  "description": "Le VIH (virus de l\u2019immunod\u00e9ficience humaine) est le virus qui provoque le SIDA\r\n(syndrome d\u2019immunod\u00e9ficience acquise). Il est possible de le pr\u00e9venir et de le traiter,\r\nmais pas de le gu\u00e9rir. Les personnes peuvent \u00eatre infect\u00e9es 1) lors de relations\r\nsexuelles non prot\u00e9g\u00e9es avec une personne infect\u00e9e par le VIH ; 2) par transmission\r\ndu virus d\u2019une femme infect\u00e9e \u00e0 son b\u00e9b\u00e9 durant la grossesse, la naissance ou\r\nl\u2019allaitement ; 3) par le sang lors de l\u2019utilisation de seringues, d\u2019aiguilles ou d\u2019autres\r\ninstruments pointus contamin\u00e9s ou lors d\u2019une transfusion de sang contamin\u00e9. Le VIH\r\nne se transmet pas par contact ou par d\u2019autres moyens.", 
+  "language": "fre_FR", 
+  "title": "Le VIH (virus de l\u2019immunod\u00e9ficience humaine) est le virus qui provoque le SIDA (syndrome d\u2019immunod\u00e9ficience acquise). Il est possible de le pr\u00e9venir et de le traiter, mais pas de le gu\u00e9rir. Les person", 
+  "primary_category": "0dc8a387e7bc4b8cb5beb4aab4ec2d66", 
+  "created_at": "2014-11-29T07:38:22.621487+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2014-12-01T14:03:02.689379+00:00", 
+  "_version": {
+    "package_version": "0.2.9", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Les personnes infect\u00e9es par le VIH ne pr\u00e9sentent en g\u00e9n\u00e9ral aucun sympt\u00f4me de\r\nmaladie pendant des ann\u00e9es. Elles peuvent para\u00eetre et se sentir en bonne sant\u00e9, mais\r\nn\u00e9anmoins transmettre le virus. Le d\u00e9marrage opportun d\u2019une th\u00e9rapie antir\u00e9trovirale\r\n(ARV), qui se compose d\u2019un groupe de m\u00e9dicaments utilis\u00e9s pour traiter le VIH,\r\npermet \u00e0 une personne de consid\u00e9rer le VIH comme une maladie chronique et de\r\nmener une vie relativement saine.\r\n\r\nLe SIDA correspond au stade avanc\u00e9 de l\u2019infection par le VIH. Les personnes atteintes\r\ndu SIDA s\u2019affaiblissent parce que leur corps ne peut plus se d\u00e9fendre contre d\u2019autres\r\nmaladies. Si les adultes ne re\u00e7oivent pas de traitement antir\u00e9troviral, le SIDA se\r\nd\u00e9veloppe en moyenne 7 \u00e0 10 ans apr\u00e8s l\u2019infection au VIH. Chez les jeunes enfants,\r\ncet intervalle est g\u00e9n\u00e9ralement beaucoup plus court. Il n\u2019existe aucun rem\u00e8de au\r\nSIDA, mais de nouveaux m\u00e9dicaments peuvent aider les personnes atteintes \u00e0 vivre\r\nplus longtemps.\r\n\r\nDans la majorit\u00e9 des cas, le VIH se transmet d\u2019une personne \u00e0 l\u2019autre lors de rapports\r\nsexuels non prot\u00e9g\u00e9s, au cours desquels le sperme, les s\u00e9cr\u00e9tions vaginales ou le\r\nsang d\u2019une personne infect\u00e9e p\u00e9n\u00e8trent dans l\u2019organisme d\u2019un partenaire. Le VIH peut \u00e9galement passer d\u2019une personne \u00e0 l\u2019autre lors de l\u2019utilisation d\u2019aiguilles et de seringues (le plus souvent chez les toxicomanes qui se les partagent), de lames\r\nde rasoirs, de couteaux ou d\u2019autres instruments non st\u00e9rilis\u00e9s et contamin\u00e9s utilis\u00e9s\r\npour s\u2019injecter des drogues, couper ou percer la peau.\r\n\r\nL\u2019infection peut \u00e9galement se produire lors d\u2019une transfusion de sang contamin\u00e9.\r\nToute quantit\u00e9 de sang destin\u00e9e \u00e0 \u00eatre transfus\u00e9e doit \u00eatre contr\u00f4l\u00e9e pour v\u00e9rifier\r\nqu\u2019elle n\u2019est pas\r\ncontamin\u00e9e.\r\n\r\nChez les nourrissons et les jeunes enfants, le VIH est principalement transmis par la\r\nm\u00e8re durant la grossesse, au moment de la naissance ou pendant l\u2019allaitement.\r\n\r\nIl est impossible de contracter le virus en travaillant, en ayant des activit\u00e9s sociales ou\r\nen vivant \u00e0 proximit\u00e9 de personnes s\u00e9ropositives. La maladie ne peut se transmettre\r\npar le simple fait de toucher, d\u2019\u00e9treindre une personne infect\u00e9e ou de lui serrer la\r\nmain, ni par la toux ou les \u00e9ternuements d\u2019une personne infect\u00e9e. Le VIH ne se\r\ntransmet pas par le si\u00e8ge des toilettes, le t\u00e9l\u00e9phone, la vaisselle, les couverts, les\r\nserviettes, les draps, la piscine ou les bains publics. Il n\u2019est pas non plus transmis par\r\nles moustiques ou d\u2019autres insectes.", 
+  "source": "1eb69e8359464e84a07d0fda10882c8f", 
+  "featured": false, 
+  "image": null, 
+  "published": null, 
+  "position": 42, 
+  "image_host": "http://qa.thumbor.unicore.io", 
+  "slug": "le-vih-virus-de-limmunodeficience-humaine-est-le-virus-qui-provoque-le-sida-syndrome-dimmunodeficience-acquise-il-est-possible-de-le-prevenir-et-de-le-traiter-mais-pas-de-le-guerir-les-person", 
+  "uuid": "bbf1642f8d364086affc9811aabfe042"
+}
