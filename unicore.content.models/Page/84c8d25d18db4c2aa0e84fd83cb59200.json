@@ -1,0 +1,28 @@
+{
+  "subtitle": "", 
+  "description": "Se laver le visage et les mains \u00e0 l\u2019eau et au savon chaque jour permet d\u2019\u00e9viter\r\nles infections des yeux. Dans certaines r\u00e9gions du monde, ces infections peuvent\r\nprovoquer le trachome, qui peut rendre aveugle. ", 
+  "language": "fre_FR", 
+  "title": "Se laver le visage et les mains \u00e0 l\u2019eau et au savon chaque jour permet d\u2019\u00e9viter les infections des yeux. Dans certaines r\u00e9gions du monde, ces infections peuvent provoquer le trachome, qui peut rendre ", 
+  "primary_category": "f206f038d22c44dd9939ff6f0290dac2", 
+  "created_at": "2014-11-29T10:14:25.159469+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2014-12-01T14:03:00.757286+00:00", 
+  "_version": {
+    "package_version": "0.2.9", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Les mouches transportent des microbes. Un visage sale attire les mouches et les\r\nmicrobes qu\u2019elles transportent se propagent d\u2019une personne \u00e0 l\u2019autre. Les yeux\r\nrisquent de devenir douloureux ou de s\u2019infecter, la vue risque de baisser. L\u2019enfant peut\r\nm\u00eame devenir aveugle si l\u2019on ne prend pas la peine de lui nettoyer les yeux et de les\r\ngarder en bonne sant\u00e9.\r\n\r\nQuand les yeux sont en bonne sant\u00e9, le blanc de l\u2019\u0153il est clair, l\u2019\u0153il est humide et\r\nbrillant et la vue est nette. Quand les yeux sont extr\u00eamement secs, ou tr\u00e8s rouges et\r\ndouloureux, s\u2019il y a un \u00e9coulement ou si l\u2019enfant a de la peine \u00e0 voir, il faut le faire\r\nexaminer le plus rapidement possible par un agent de sant\u00e9", 
+  "source": "f97019f173034719bacf1edc9c565524", 
+  "featured": false, 
+  "image": null, 
+  "published": null, 
+  "position": 26, 
+  "image_host": "http://qa.thumbor.unicore.io", 
+  "slug": "se-laver-le-visage-et-les-mains-leau-et-au-savon-chaque-jour-permet-deviter-les-infections-des-yeux-dans-certaines-regions-du-monde-ces-infections-peuvent-provoquer-le-trachome-qui-peut-rendre", 
+  "uuid": "84c8d25d18db4c2aa0e84fd83cb59200"
+}
