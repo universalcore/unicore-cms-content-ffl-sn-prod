@@ -1,0 +1,28 @@
+{
+  "subtitle": "", 
+  "description": "Les enfants apprennent comment se comporter (sur les plans social et affectif) en\r\nimitant le comportement de leurs proches.", 
+  "language": "fre_FR", 
+  "title": "Les enfants apprennent comment se comporter (sur les plans social et affectif) en imitant le comportement de leurs proches.", 
+  "primary_category": "e737489cdfb643cfb2ae8c0ea42620f3", 
+  "created_at": "2014-11-27T15:46:56.011175+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2014-12-01T14:03:07.972097+00:00", 
+  "_version": {
+    "package_version": "0.2.9", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "C\u2019est en observant et en imitant les autres que les jeunes enfants apprennent \u00e0 \u00e9tablir\r\ndes contacts sociaux. Ils apprennent \u00e0 faire la diff\u00e9rence entre les comportements qui\r\nsont acceptables et ceux qui ne le sont pas.\r\n\r\nC\u2019est l\u2019exemple des adultes et des fr\u00e8res et s\u0153urs et enfants plus \u00e2g\u00e9s qui influence\r\nle plus le comportement et la personnalit\u00e9 de l\u2019enfant. Les enfants apprennent en\r\ncopiant ce que font les autres. Si les hommes et les femmes ne sont pas trait\u00e9s sur un\r\npied d\u2019\u00e9galit\u00e9, l\u2019enfant observe la situation, l\u2019assimile et reproduira probablement les\r\nm\u00eames comportements. Si les adultes crient, agissent violemment, excluent d\u2019autres\r\npersonnes ou font preuve de discrimination, les enfants en concluront que c\u2019est le\r\ncomportement \u00e0 adopter. Si les adultes traitent les autres personnes avec gentillesse,\r\nrespect et patience, les enfants suivront leur exemple. Si la m\u00e8re et le p\u00e8re font\r\npreuve \u00e0 l\u2019\u00e9gard l\u2019un de l\u2019autre d\u2019amour et de respect, c\u2019est ce que les enfants\r\nassimileront et reproduiront probablement dans leurs propres relations \u00e0 l\u2019\u00e2ge adulte.\r\n\r\nLes enfants adorent jouer le r\u00f4le de quelqu\u2019un d\u2019autre. Il faut encourager ce jeu car il\r\nd\u00e9veloppe l\u2019imagination et aide l\u2019enfant \u00e0 comprendre le comportement des autres.", 
+  "source": "bb03fd3a7cba43719adb831203bbda9c", 
+  "featured": false, 
+  "image": null, 
+  "published": null, 
+  "position": 83, 
+  "image_host": "http://qa.thumbor.unicore.io", 
+  "slug": "les-enfants-apprennent-comment-se-comporter-sur-les-plans-social-et-affectif-en-imitant-le-comportement-de-leurs-proches", 
+  "uuid": "9b7cbc70142c446d9892d33f830c0130"
+}
