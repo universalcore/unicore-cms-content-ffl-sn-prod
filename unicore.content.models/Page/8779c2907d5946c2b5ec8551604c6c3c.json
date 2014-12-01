@@ -1,0 +1,28 @@
+{
+  "subtitle": "", 
+  "description": "In emergencies, children have the same rights as in non-emergency situations. This is true whether the emergency is a conflict, disaster or epidemic.", 
+  "language": "eng_UK", 
+  "title": "In emergencies, children have the same rights as in non-emergency situations. This is true whether the emergency is a conflict, disaster or epidemic.", 
+  "primary_category": "13268372781c4187a13a871b7c177fd0", 
+  "created_at": "2014-09-15T09:03:59+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2014-12-01T14:02:45.316511+00:00", 
+  "_version": {
+    "package_version": "0.2.9", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "All children and their families and communities have the right to receive\r\nhumanitarian assistance in emergencies.\r\n\r\nChildren and their families who are forced from their homes by conflicts\r\nor disasters have the same rights as those living in their homes and\r\ncommunities in non-emergency situations.\r\n\r\nCommunities can designate protected areas to shelter civilians and the sick.\r\nThese areas must never be used for any military purposes.\r\n\r\nHumanitarian relief workers and supplies must always be respected\r\nand protected. Combatants should always allow all civilians access to\r\nhumanitarian assistance.\r\n\r\nThe particular needs of women and adolescent girls in emergency situations\r\nmust be respected. Their specific needs of privacy, hygiene and protection\r\nmust be taken into account. Unaccompanied children, pregnant women,\r\nmothers with young children, female heads-of-households, persons with\r\ndisabilities and the elderly may require specific attention to address their\r\nparticular needs.\r\n\r\nWhen children and families are displaced within a country, the national\r\nauthorities have the primary responsibility to protect children\u2019s rights\r\nand assist children and families. The United Nations, non-governmental\r\norganizations and the International Committee of the Red Cross (ICRC),\r\namong others, also have a critical role to play in providing assistance and\r\nprotection to children and families.\r\n\r\nDisplaced persons have the right to safely return to their homes as soon as\r\nthe reasons for their displacement are no longer an issue. The property rights\r\nof displaced persons must be respected so children and families can rebuild\r\ntheir lives.\r\n\r\nAs communities begin to re-establish and reconstruct after an emergency,\r\nattention should be given to providing social services, including health and\r\neducation, to children, women and families.\r\n\r\nHumanitarian workers who provide aid to civilians should minimize\r\nopportunities for violence, exploitation and abuse. Any activity by\r\nhumanitarian workers that exploits the population should be reported\r\nimmediately to the agency concerned and the authorities.", 
+  "source": null, 
+  "featured": false, 
+  "image": null, 
+  "published": null, 
+  "position": 2, 
+  "image_host": "http://qa.thumbor.unicore.io", 
+  "slug": "in-emergencies-children-have-the-same-rights-as-in-non-emergency-situations-this-is-true-whether-the-emergency-is-a-conflict-disaster-or-epidemic", 
+  "uuid": "8779c2907d5946c2b5ec8551604c6c3c"
+}
