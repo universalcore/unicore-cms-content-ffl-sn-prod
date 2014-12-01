@@ -1,0 +1,28 @@
+{
+  "subtitle": "", 
+  "description": "Les jeunes enfants courent des risques sur les routes ou \u00e0 leur proximit\u00e9. Il ne faut\r\npas les laisser jouer sur la route ni \u00e0 proximit\u00e9 et il faut s\u2019assurer qu\u2019ils sont toujours\r\naccompagn\u00e9s d\u2019une personne plus \u00e2g\u00e9e lorsqu\u2019ils t\r\nraversent. Ils doivent porter un\r\ncasque lorsqu\u2019ils font du v\u00e9lo ou de la mobylette et doivent \u00eatre solidement attach\u00e9s\r\ndans un si\u00e8ge-auto adapt\u00e9 \u00e0 leur \u00e2ge lors de trajets en voiture.", 
+  "language": "fre_FR", 
+  "title": "Les jeunes enfants courent des risques sur les routes ou \u00e0 leur proximit\u00e9. Il ne faut pas les laisser jouer sur la route ni \u00e0 proximit\u00e9 et il faut s\u2019assurer qu\u2019ils sont toujours accompagn\u00e9s d\u2019une pers", 
+  "primary_category": "32ae9d77ce5045aeb2bc132c11001c08", 
+  "created_at": "2014-11-28T12:30:35+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2014-12-01T14:03:04.855168+00:00", 
+  "_version": {
+    "package_version": "0.2.9", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Les enfants peuvent avoir un accident lorsqu\u2019ils traversent la chauss\u00e9e, marchent le\r\nlong d\u2019une route ou jouent \u00e0 proximit\u00e9. En effet, les jeunes enfants ne r\u00e9fl\u00e9chissent\r\npas avant de courir sur la route.\r\n\r\n**Les familles doivent :**\r\n\r\n* surveiller attentivement les enfants\r\n* cl\u00f4turer la maison et fermer le portail pour emp\u00eacher les jeunes enfants d\u2019aller\r\ncourir sur la route\r\n* apprendre aux jeunes enfants \u00e0 ne jamais traverser la route s\u2019ils ne sont pas\r\naccompagn\u00e9s d\u2019un adulte ou d\u2019un enfant plus \u00e2g\u00e9\r\n* emp\u00eacher les enfants de jouer au bord de la route\r\n* apprendre aux enfants \u00e0 ne pas courir apr\u00e8s un ballon, jouer ou faire du cerf-\r\nvolant \u00e0 proximit\u00e9 d\u2019une route\r\n* apprendre aux enfants \u00e0 marcher sur le bas-c\u00f4t\u00e9 de la route, face \u00e0 la circulation\r\n* leur apprendre \u00e0 utiliser les trottoirs, s\u2019il y en a, au lieu de marcher sur la route.\r\n\r\n**Avant de traverser la route, il faut apprendre aux enfants \u00e0 :**\r\n\r\n* s\u2019arr\u00eater au bord de la route\r\n* regarder des deux c\u00f4t\u00e9s\r\n* \u00e9couter si une voiture ou un autre v\u00e9hicule arrive avant de traverser\r\n* donner la main pour traverser\r\n* traverser en marchant, pas en courant\r\n* en ville, utiliser les passages pi\u00e9tons\r\n* \u00e9viter de traverser la route dans un virage ou en passant entre des voitures stationn\u00e9es\r\n* \u00e9viter de traverser lorsque les voitures roulent vite.\r\n\r\nLes enfants qui voyagent sur le si\u00e8ge avant d\u2019une voiture ou, qui se trouvent sans\r\nsurveillance \u00e0 l\u2019arri\u00e8re d\u2019un camion, d\u2019une machine agricole ou d\u2019une motocyclette\r\nrisquent d\u2019\u00eatre gravement bless\u00e9s en cas d\u2019accident.\r\n\r\nEn voiture, les enfants doivent \u00eatre attach\u00e9s \u00e0 l\u2019aide d\u2019un syst\u00e8me de harnais adapt\u00e9 \u00e0\r\nleur \u00e2ge ou assis dans un si\u00e8ge rehausseur jusqu\u2019\u00e0 10 ans ou qu\u2019ils atteignent la taille\r\nde 150 cm, lorsqu\u2019ils pourront alors utiliser une ceinture adulte.\r\n\r\nLors de trajets en deux-roues, l\u2019adulte comme l\u2019enfant doivent porter un casque\r\nsolidement attach\u00e9 sous le menton afin qu\u2019il ne s\u2019enl\u00e8ve pas en cas d\u2019accident.\r\n\r\nLes accidents de v\u00e9lo sont \u00e0 l\u2019origine d\u2019un grand nombre de blessures et de d\u00e9c\u00e8s\r\nchez les enfants. Tout enfant doit apprendre les r\u00e8gles de la s\u00e9curit\u00e9 routi\u00e8re et porter\r\nun casque lorsqu\u2019il fait du v\u00e9lo.\r\n\r\n*Pour des conseils sur les premiers secours en cas d\u2019accident, se r\u00e9f\u00e9rer \u00e0 la fin de\r\nce chapitre.*", 
+  "source": "04f28245ccce44b2aa59c32383a93c8b", 
+  "featured": false, 
+  "image": null, 
+  "published": null, 
+  "position": 58, 
+  "image_host": "http://qa.thumbor.unicore.io", 
+  "slug": "les-jeunes-enfants-courent-des-risques-sur-les-routes-ou-leur-proximite-il-ne-faut-pas-les-laisser-jouer-sur-la-route-ni-proximite-et-il-faut-sassurer-quils-sont-toujours-accompagnes-dune-pers", 
+  "uuid": "4c889cd7d19b49ca9b13926599d0ccf7"
+}
