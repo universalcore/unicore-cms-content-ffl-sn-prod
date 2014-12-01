@@ -1,0 +1,28 @@
+{
+  "subtitle": "", 
+  "description": "Partout o\u00f9 le paludisme s\u00e9vit, les enfants sont en danger. Tout enfant pr\u00e9sentant\r\nde la fi\u00e8vre doit donc\r\nimm\u00e9diatement\r\n\u00eatre examin\u00e9 par un professionnel de sant\u00e9\r\nqualifi\u00e9 et recevoir d\u00e8s que possible un traitement antipaludique appropri\u00e9 en\r\ncas de diagnostic positif. L\u2019OMS recommande des traitements combin\u00e9s \u00e0 base\r\nd\u2019art\u00e9misinine (TCA) pour traiter le paludisme \u00e0\r\nPlasmodium falciparum\r\n. Ce type de\r\npaludisme est le plus g\r\nrave et r\r\nesponsable de presque tous les d\u00e9c\u00e8s imputables \u00e0\r\ncette maladie. ", 
+  "language": "fre_FR", 
+  "title": "Partout o\u00f9 le paludisme s\u00e9vit, les enfants sont en danger. Tout enfant pr\u00e9sentant de la fi\u00e8vre doit donc imm\u00e9diatement \u00eatre examin\u00e9 par un professionnel de sant\u00e9 qualifi\u00e9 et recevoir d\u00e8s que possible ", 
+  "primary_category": "496ce2f7cfed43af96f31b92639015d1", 
+  "created_at": "2014-11-29T09:53:24.801056+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2014-12-01T14:03:01.731995+00:00", 
+  "_version": {
+    "package_version": "0.2.9", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Il faut penser au paludisme si un membre de la famille a de la fi\u00e8vre ou si un jeune\r\nenfant refuse de manger, vomit, souffre de diarrh\u00e9e, est somnolent ou a des crises.\r\n\r\nLorsqu\u2019un enfant a de la fi\u00e8vre et que l\u2019on pense qu\u2019il s\u2019agit de paludisme, il doit\r\nimm\u00e9diatement recevoir un traitement antipaludique prescrit par un professionnel de\r\nsant\u00e9 qualifi\u00e9. Dans la mesure du possible, l\u2019enfant doit subir un test de diagnostic\r\nrapide (TDR) ou une microscopie (diagnostic de laboratoire consistant \u00e0 examiner un\r\n\u00e9chantillon de sang au microscope) afin de confirmer l\u2019infection. Les TDR ne sont pas\r\non\u00e9reux et de plus en plus disponibles.\r\n\r\nSi l\u2019enfant atteint de fi\u00e8vre palud\u00e9enne n\u2019est pas trait\u00e9 d\u00e8s le premier jour, il risque\r\nde mourir. Les TCA sont recommand\u00e9s par l\u2019OMS pour traiter le paludisme \u00e0\r\nPlasmodium falciparum. Un professionnel de sant\u00e9 qualifi\u00e9 peut conseiller sur le type\r\nde TCA le plus appropri\u00e9 et sur sa dur\u00e9e, conform\u00e9ment aux directives nationales.\r\n\r\nLe paludisme provoque g\u00e9n\u00e9ralement de fortes fi\u00e8vres et des frissons. Tant que la\r\nfi\u00e8vre persiste, il faut s\u2019efforcer de maintenir l\u2019enfant au frais. On peut par exemple :\r\n\r\n* l\u2019\u00e9ponger ou le baigner dans de l\u2019eau ti\u00e8de (fra\u00eeche, pas froide)\r\n* lui donner des antipyr\u00e9tiques (m\u00e9dicaments emp\u00eachant ou r\u00e9duisant la fi\u00e8vre),\r\npar exemple du parac\u00e9tamol ou de l\u2019ibuprof\u00e8ne, mais pas d\u2019aspirine.\r\n\r\nIl est important d\u2019emp\u00eacher la fi\u00e8vre de monter afin d\u2019\u00e9viter les convulsions qui\r\npourraient entra\u00eener une invalidit\u00e9.\r\n\r\nUn enfant souffrant du paludisme doit suivre un traitement\r\ncomplet, m\u00eame si la fi\u00e8vre tombe rapidement. S\u2019il ne re\u00e7oit pas de traitement complet, le paludisme pourrait\r\ns\u2019aggraver et devenir difficile \u00e0 gu\u00e9rir. Par ailleurs, un traitement incomplet peut\r\n\u00e9galement entra\u00eener le d\u00e9veloppement d\u2019une r\u00e9sistance aux m\u00e9dicaments au sein de\r\nla population locale.\r\n\r\nSi les sympt\u00f4mes du paludisme persistent apr\u00e8s le traitement, il faut conduire l\u2019enfant\r\ndans un centre de soins ou un h\u00f4pital. Le probl\u00e8me peut \u00eatre le suivant :\r\n\r\n* l\u2019enfant ne re\u00e7oit pas suffisamment de m\u00e9dicaments\r\n* l\u2019enfant est atteint d\u2019une autre maladie que le paludisme\r\n* le paludisme r\u00e9siste au traitement et un autre m\u00e9dicament est n\u00e9cessaire.\r\n\r\nLes prestataires de soins ont la responsabilit\u00e9 de veiller \u00e0 ce que les parents et\r\nles personnes qui s\u2019occupent de l\u2019enfant soient bien inform\u00e9s des m\u00e9thodes de\r\npr\u00e9vention du paludisme et des meilleures pratiques de soins.", 
+  "source": "09487ccc8abb480fbd9b0a30fb4979e8", 
+  "featured": false, 
+  "image": null, 
+  "published": null, 
+  "position": 31, 
+  "image_host": "http://qa.thumbor.unicore.io", 
+  "slug": "partout-ou-le-paludisme-sevit-les-enfants-sont-en-danger-tout-enfant-presentant-de-la-fievre-doit-donc-immediatement-etre-examine-par-un-professionnel-de-sante-qualifie-et-recevoir-des-que-possible", 
+  "uuid": "d64f39e8b8e94d9e9d65a74ea53dcfa3"
+}
