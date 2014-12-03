@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "Measles, diarrhoea, pneumonia, malaria, malnutrition and neonatal complications are major causes of child deaths, particularly during emergencies.", 
+  "language": "eng_GB", 
+  "title": "Measles, diarrhoea, pneumonia, malaria, malnutrition and neonatal complications are major causes of child deaths, particularly during emergencies.", 
+  "primary_category": "13268372781c4187a13a871b7c177fd0", 
+  "created_at": "2014-09-15T08:58:34+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2014-12-03T12:23:57.682290+00:00", 
+  "_version": {
+    "package_version": "0.3.1", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Infectious diseases spread easily in crowded emergency conditions. To reduce\r\nthe risks:\r\n\r\n* ensure that all children 6 months to 15 years of age are appropriately\r\nimmunized, especially against measles, at the first point of contact\r\nor settlement\r\n* continue to seek health-care services to prevent and treat illnesses.\r\n\r\n*(Refer to the chapters on Safe Motherhood and Newborn Health,\r\nImmunizations, Coughs, Colds and More Serious Illnesses, and Malaria.)*\r\n\r\nMalnutrition is more common in emergencies due to shortages of food,\r\nincreased disease and disruption of caring practices. It is therefore important\r\nto ensure that children:\r\n\r\n* breastfeed and receive adequate amounts of age-appropriate nutritious\r\nfoods and drinks\r\n* receive micronutrient supplements in addition to fortified foods.\r\n\r\nChildren who are very thin and/or swollen (usually the feet and legs) need\r\nto be taken to a trained health worker or health facility for immediate\r\nassessment and treatment and further management in accordance with\r\ntheir status.\r\n\r\n*(Refer to the chapters on Breastfeeding, and Nutrition and Growth.)*\r\n\r\nIn emergencies, lack of safe water, sanitation and hygiene can cause disease\r\nthat may turn into an epidemic. Cholera can occur where there is poor\r\nsanitation and overcrowding. Basic steps to follow include:\r\n\r\n*continue to wash hands frequently with soap and water or a substitute,\r\nsuch as ash and water\r\n*dispose of faeces and garbage safely\r\n*practise safe food preparation\r\n*use safe water sources or employ home-based water treatment, such as\r\nboiling, filtering, adding chlorine or disinfecting with sunlight\r\n*store safe water in clean, covered containers.\r\n\r\n*(Refer to the chapters on Hygiene and Diarrhoea.)*", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 4, 
+  "image_host": "http://qa.thumbor.unicore.io", 
+  "slug": "measles-diarrhoea-pneumonia-malaria-malnutrition-and-neonatal-complications-are-major-causes-of-child-deaths-particularly-during-emergencies", 
+  "uuid": "7041774be7a64baf9e1410a4f9292707"
+}
