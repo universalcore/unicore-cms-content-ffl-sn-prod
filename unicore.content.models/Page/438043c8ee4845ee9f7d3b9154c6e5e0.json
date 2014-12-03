@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "During an illness, children need additional fluids and encouragement to eat regular meals, and breastfeeding infants need to breastfeed more often. After an illness, children need to be offered more food than usual to replenish the energy and nourishment lost due to the illness.", 
+  "language": "eng_GB", 
+  "title": "During an illness, children need additional fluids and encouragement to eat regular meals, and breastfeeding infants need to breastfeed more often. After an illness, children need to be offered more f", 
+  "primary_category": "6dab72d2d4c34cbfb4fe91df729cdbb0", 
+  "created_at": "2014-09-12T09:01:33+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2014-12-03T12:24:11.478211+00:00", 
+  "_version": {
+    "package_version": "0.3.1", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "When children are sick, such as when they have diarrhoea, measles or\r\npneumonia, their appetite decreases and their body uses food less effectively.\r\nIf the child is sick several times a year, his or her growth will slow or stop.\r\n\r\nIt is very important to encourage a sick child to eat. This can be difficult, as\r\nchildren who are ill may not be hungry. The parent or other caregiver should\r\nkeep offering foods the child likes, a little at a time and as often as possible.\r\nExtra breastfeeding is especially important since it can provide nutrients\r\nrequired for recovery from infections.\r\n\r\nIt is essential to encourage a sick child to drink as often as possible.\r\nDehydration (lack of fluids in the body) is a serious problem for children with\r\ndiarrhoea. Drinking plenty of liquids will help prevent dehydration. When a\r\nchild has diarrhoea, giving him or her oral rehydration salts (ORS) dissolved\r\nin clean water, along with foods and liquids, can help prevent dehydration.\r\n\r\nGiving the child a zinc supplement every day for 10\u201314 days can reduce the\r\nseverity of the diarrhoea. The child is not fully recovered from an illness until\r\nhe or she weighs about as much as when the illness began.\r\n\r\nA child can die from persistent diarrhoea if it is not treated quickly. If\r\ndiarrhoea and poor appetite persist for more than a few days, the mother,\r\nfather or other caregiver needs to consult a trained health worker.\r\n\r\n(Refer to the Diarrhoea chapter for more information.)\r\n\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 10, 
+  "image_host": "http://qa.thumbor.unicore.io", 
+  "slug": "during-an-illness-children-need-additional-fluids-and-encouragement-to-eat-regular-meals-and-breastfeeding-infants-need-to-breastfeed-more-often-after-an-illness-children-need-to-be-offered-more-f", 
+  "uuid": "438043c8ee4845ee9f7d3b9154c6e5e0"
+}
