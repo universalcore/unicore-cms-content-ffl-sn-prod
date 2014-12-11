@@ -6,12 +6,12 @@
   "primary_category": "6dab72d2d4c34cbfb4fe91df729cdbb0", 
   "created_at": "2014-09-12T09:01:33+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-12-03T12:24:11.478211+00:00", 
+  "modified_at": "2014-12-11T15:31:21.439072+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,8 +22,8 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 10, 
-  "image_host": "http://qa.thumbor.unicore.io", 
+  "position": 8, 
+  "image_host": "http://thumbor.unicore.io", 
   "slug": "during-an-illness-children-need-additional-fluids-and-encouragement-to-eat-regular-meals-and-breastfeeding-infants-need-to-breastfeed-more-often-after-an-illness-children-need-to-be-offered-more-f", 
   "uuid": "438043c8ee4845ee9f7d3b9154c6e5e0"
 }
