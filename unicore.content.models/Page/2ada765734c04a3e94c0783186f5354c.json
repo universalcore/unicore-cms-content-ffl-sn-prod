@@ -6,12 +6,12 @@
   "primary_category": "e1da05c882364f7c891f9da57f5e981d", 
   "created_at": "2014-09-10T13:25:32+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-12-03T12:23:55.340461+00:00", 
+  "modified_at": "2014-12-11T15:30:48.179226+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,8 +22,8 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 2, 
-  "image_host": "http://qa.thumbor.unicore.io", 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
   "slug": "girls-who-are-educated-and-healthy-and-who-have-a-nutritious-diet-throughout-their-childhood-and-teenage-years-are-more-likely-to-have-healthy-babies-and-go-through-pregnancy-and-childbirth-safely-if", 
   "uuid": "2ada765734c04a3e94c0783186f5354c"
 }
