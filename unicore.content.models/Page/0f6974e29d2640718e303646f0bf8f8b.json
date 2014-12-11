@@ -6,12 +6,12 @@
   "primary_category": "e1da05c882364f7c891f9da57f5e981d", 
   "created_at": "2014-09-10T13:24:42+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-12-03T12:23:56.940448+00:00", 
+  "modified_at": "2014-12-11T15:30:48.361730+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,8 +22,8 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 3, 
-  "image_host": "http://qa.thumbor.unicore.io", 
+  "position": 1, 
+  "image_host": "http://thumbor.unicore.io", 
   "slug": "the-risks-associated-with-childbearing-for-the-mother-and-her-baby-can-be-greatly-reduced-if-a-woman-is-healthy-and-well-nourished-before-becoming-pregnant-during-pregnancy-and-while-breastfeeding-a", 
   "uuid": "0f6974e29d2640718e303646f0bf8f8b"
 }
