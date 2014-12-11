@@ -6,12 +6,12 @@
   "primary_category": "99fdaf31bc2949a5ab89f7b2217811d6", 
   "created_at": "2014-09-15T09:13:18+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-12-03T12:24:05.530464+00:00", 
+  "modified_at": "2014-12-11T15:32:12.349012+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,8 +22,8 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 7, 
-  "image_host": "http://qa.thumbor.unicore.io", 
+  "position": 5, 
+  "image_host": "http://thumbor.unicore.io", 
   "slug": "parents-teachers-peer-leaders-and-other-role-models-should-provide-adolescents-with-a-safe-environment-and-a-range-of-life-skills-that-can-help-them-make-healthy-choices-and-practise-healthy-behavio", 
   "uuid": "1301ced16cfb4108904ba545054ca6b7"
 }
