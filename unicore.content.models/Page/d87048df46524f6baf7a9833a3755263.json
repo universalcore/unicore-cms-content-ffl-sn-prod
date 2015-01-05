@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
-  "description": "", 
+  "description": "A propos", 
   "language": "fre_FR", 
-  "title": "About Facts for Life", 
+  "title": "A propos de Savoir pour sauver", 
   "primary_category": null, 
   "created_at": "2014-10-10T08:37:07+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-12-02T14:01:42.091063+00:00", 
+  "modified_at": "2015-01-05T15:08:43.465521+00:00", 
   "_version": {
     "package_version": "0.2.9", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -19,10 +19,11 @@
   "content": "En 2008, pr\u00e8s de 9 millions d\u2019enfants sont morts avant leur cinqui\u00e8me anniversaire de maladies qui\r\nauraient pu \u00eatre \u00e9vit\u00e9es, plus des deux tiers d\u2019entre eux pendant leur premi\u00e8re ann\u00e9e. Des millions\r\nd\u2019autres enfants survivent mais resteront diminu\u00e9s et incapables de r\u00e9aliser pleinement leur potentiel.\r\n\r\nCinq maladies \u2013 la pneumonie, la diarrh\u00e9e, le paludisme, la rougeole et le SIDA \u2013 sont \u00e0 l\u2019origine de la\r\nmoiti\u00e9 des d\u00e9c\u00e8s des enfants de moins de cinq ans. La d\u00e9nutrition est un facteur qui intervient dans\r\nplus d\u2019un tiers de ces d\u00e9c\u00e8s.\r\n\r\nIl est possible de sauver des vies et de consid\u00e9rablement r\u00e9duire les souffrances humaines en\r\nadoptant \u00e0 plus grande \u00e9chelle des mesures peu co\u00fbteuses de pr\u00e9vention, de traitement et de\r\nprotection. Mais il faut que ces connaissances soient transmises aux parents, aux dispensateurs de\r\nsoins et aux communaut\u00e9s, qui sont les premiers \u00e0 pouvoir prot\u00e9ger les enfants des maladies et\r\nautres dangers.\r\n\r\nSavoir pour Sauver\r\nse veut une source d\u2019informations vitales destin\u00e9es \u00e0 ceux qui en ont le plus\r\nbesoin. Cet ouvrage rassemble des connaissances essentielles sur les divers moyens de pr\u00e9venir la\r\nmortalit\u00e9 des enfants et des m\u00e8res, les maladies, les accidents et la violence.\r\n\r\nDepuis la publication de la premi\u00e8re \u00e9dition de\r\nSavoir pour Sauver\r\nen 1989, d\u2019innombrables familles\r\net communaut\u00e9s du monde entier ont mis en pratique les messages et conseils de cet ouvrage.\r\nCes efforts ont, au fil des ans, contribu\u00e9 pour beaucoup \u00e0 l\u2019am\u00e9lioration d\u2019importants indicateurs\r\nmondiaux, concernant par exemple la sant\u00e9, l\u2019\u00e9ducation, l\u2019esp\u00e9rance de vie et les taux de morbidit\u00e9\r\net de mortalit\u00e9 infantile et maternelle. Il est possible de r\u00e9aliser de grands progr\u00e8s lorsqu\u2019on donne\r\naux familles et aux communaut\u00e9s les moyens d\u2019adopter des pratiques qui am\u00e9liorent la survie,\r\nla croissance, l\u2019apprentissage, le d\u00e9veloppement et la protection des enfants tout en d\u00e9fendant\r\n\u00e9galement leurs droits et ceux des femmes.\r\n\r\nCette quatri\u00e8me \u00e9dition de\r\nSavoir pour Sauver\r\ns\u2019inspire des versions pr\u00e9c\u00e9dentes, avec cependant\r\nplusieurs changements importants. Par exemple, la sant\u00e9 de la m\u00e8re \u00e9tant indissociable de la sant\u00e9 de\r\nl\u2019enfant, le chapitre sur la maternit\u00e9 sans risques a \u00e9t\u00e9 compl\u00e9t\u00e9 par des informations sur la sant\u00e9 des\r\nnouveau-n\u00e9s.\r\n\r\nCette \u00e9dition comprend un nouveau chapitre sur la protection des enfants, ax\u00e9 sur la vuln\u00e9rabilit\u00e9\r\ndes enfants et les mesures \u00e0 prendre pour qu\u2019ils grandissent dans un environnement protecteur, \u00e0 la\r\nmaison, \u00e0 l\u2019\u00e9cole, ainsi que dans la communaut\u00e9 o\u00f9 ils vivent.\r\n\r\nSavoir pour Sauver\r\nrassemble des informations qui permettent de sauver la vie d\u2019enfants, d\u2019am\u00e9liorer\r\nleur existence et de les prot\u00e9ger. Ces informations devraient \u00eatre diffus\u00e9es \u00e0 grande \u00e9chelle aupr\u00e8s\r\ndes familles, des agents de sant\u00e9, des enseignants, des associations de jeunes ou de femmes, des\r\norganisations communautaires, des fonctionnaires, des employeurs, des syndicats, des m\u00e9dias et des\r\norganisations non gouvernementales, ainsi que confessionnelles.\r\n\r\nSavoir pour Sauver\r\nvise \u00e0 informer les personnes dont d\u00e9pendent la s\u00e9curit\u00e9 et le bien-\u00eatre des\r\nenfants. Son objectif est de diffuser aux quatre coins du monde, par le biais de simples messages, des\r\nconnaissances susceptibles de sauver des vies\r\n", 
   "source": null, 
   "featured": false, 
+  "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 110, 
-  "image_host": "http://qa.thumbor.unicore.io", 
-  "slug": "about", 
+  "position": 112, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "apropos", 
   "uuid": "d87048df46524f6baf7a9833a3755263"
 }
